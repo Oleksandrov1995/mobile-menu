@@ -1,11 +1,11 @@
 {
-  "name": "parcel-project-template",
+  "name": "mobile-menu",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://goitacademy.github.io/parcel-project-template",
+  "homepage": "https://Oleksandrov1995.github.io/mobile-menu",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /parcel-project-template/"
+    "build": "parcel build src/*.html --public-url /mobile-menu/"
   },
   "repository": {
     "type": "git",
